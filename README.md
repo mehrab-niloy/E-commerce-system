@@ -69,11 +69,10 @@ API Documentation:
 
 ---
 
-## 📌 API Endpoints
+##  API Endpoints
 
 
 
-### 🔹 Products & Categories
 | Method | Endpoint        | Description               |
 |--------|----------------|---------------------------|
 | POST    | /register      |User registration |
